@@ -1,7 +1,7 @@
 # ngx-airtable
 [![npm version](https://badge.fury.io/js/ngx-airtable.svg)](https://badge.fury.io/js/ngx-airtable)
 
-An Angular module wrapping the Airtable API
+An Angular module wrapping the Airtable API.
 
 Feel free to take a look at the [DEMO](https://bohoffi.github.io/ngx-airtable/).
 
